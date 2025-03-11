@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+Made to improve our multiplication , division  , addition , subtraction problems 
 
-This project is a starting point for a Flutter application.
+I saw childrens of now days are just edicted with smart phones so i amde this amazing game for them to keep them learning and improved there basic maths skills....
 
-A few resources to get you started if this is your first Flutter project:
+let's get dive for more new projects
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here are UI and Proccess of my APP flow----
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![This is a 1st screen starting point where a player will start the game_20250311_000857_0000](https://github.com/user-attachments/assets/9f820703-a1d1-43cc-b2e1-6783208f5f03)
+
+![This is a 1st screen starting point where a player will start the game_20250311_000858_0001](https://github.com/user-attachments/assets/c0e40ef8-4c18-412a-b402-b8e1f81d4aab)
+
+![This is a 1st screen starting point where a player will start the game_20250311_000858_0002](https://github.com/user-attachments/assets/3ba55bf5-62ea-4a27-b1f8-f41d3daba0ea)
